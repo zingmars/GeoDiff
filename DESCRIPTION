@@ -33,7 +33,7 @@ Suggests:
     dplyr
 VignetteBuilder: knitr
 Depends: 
-    R (>= 4.1.0),
+    R (>= 4.0.0),
     Biobase
 RoxygenNote: 7.1.2
 biocViews: GeneExpression, DifferentialExpression, Normalization
